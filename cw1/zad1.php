@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html>
 <style>
-tr,td,table
-{
-border: 1px solid black;
-}
+tr,td,table{border: 1px solid black;}
 </style>
 <body>
 
