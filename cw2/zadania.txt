@@ -5,3 +5,4 @@ nagłówek elementu np. Company
 Warość:
 <input type="text" id="company" name="company">
 2. Stworzuć plik/skrypt w php, który wyświetla na innym dokumencie html dane wg przykładu:
+https://github.com/Michal3456/php-learn/blob/main/cw2/pattern.jpg
