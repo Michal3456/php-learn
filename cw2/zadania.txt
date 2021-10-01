@@ -1,0 +1,7 @@
+1. Dodać formularz w HTML wg: https://docs.oracle.com/en/cloud/saas/marketing/eloqua-user/Resources/Images/Forms/kbf2.x1.jpg
+oraz zapisać dane formularza w jednej zmiennej typu słowikowego wg wzoru:
+Klucz: 
+nagłówek elementu np. Company
+Warość:
+<input type="text" id="company" name="company">
+2. Stworzuć plik/skrypt w php, który wyświetla na innym dokumencie html dane wg przykładu:
