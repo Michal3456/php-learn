@@ -1,0 +1,25 @@
+Zad1
+Stworzyć w HTML tablice, która będzie wypełniona
+poprzez kod PHP. Tablica będzie postaci:
+Wskazówki:
+-foreach 2x
+-stworzuć słownik
+-tr - wiersz, td - komórka
+Zad2
+Dodać 10 wierszy, gdzie w
+kolumnie1: losowe liczby od 1 do 10
+kolumnie2: losowe liczby od 40 do 99
+kolumnie3: "NULL"
+Wskazówki:
+-wykorzystać metodę rand() oraz pętlę for/while/do while
+Zad3
+W kolumnie3 wylosować stringi z tablicy: ["NULL","1","2"]
+-rozwiązanie nieoptymalne/łatwe - wykorzystać switcha/if-y, rand()
+-rozwiązanie lepsze - wykorzystac array_rand()
+Zad4
+Dodać tablekę z 
+https://github.com/Michal3456/php-learn/
+w PHP
+-> link_table.html
+wzkazówki:
+-użyć tablicy/słownika
