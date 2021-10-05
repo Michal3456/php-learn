@@ -1,4 +1,4 @@
-Stworzyć 3 skrypty, które będa wyświetlały po kolei:
+Stworzyć 4 skrypty, które będa wyświetlały po kolei:
 imie.php - wyświetlać imie
 nazwisko.php - wyświetlać nazwisko
 klasa.php - wyświetlać klase
