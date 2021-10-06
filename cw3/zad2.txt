@@ -1,0 +1,5 @@
+Odczytać dane z formularza
+Sposób 1:
+odczyta danych w tym samym pliku
+Sposób 2:
+w inny pliku .php
