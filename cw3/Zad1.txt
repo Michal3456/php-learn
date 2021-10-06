@@ -1,6 +1,2 @@
-Stworzyć 4 skrypty, które będa wyświetlały po kolei:
-imie.php - wyświetlać imie
-nazwisko.php - wyświetlać nazwisko
-klasa.php - wyświetlać klase
-gdzie formularz przyjmuje postać:
-https://github.com/Michal3456/php-learn/blob/main/cw3/pattern.jpg
+Stworzyć 1 skrypt:
+formularz.php: https://github.com/Michal3456/php-learn/blob/main/cw3/pattern.jpg
