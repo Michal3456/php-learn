@@ -1,0 +1,1 @@
+Utworz odpowiedni formularz HTML w tabelce HTML, który dodaje jeden plik cookie.
