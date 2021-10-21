@@ -1,0 +1,2 @@
+-Testowo, korzystając z zad1, w pętli foreach, utworzyć listę 300 obiektów i dodać losową zawartość.
+-Wyświetlić zawartość w pętli foreach.
