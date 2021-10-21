@@ -1,0 +1,6 @@
+-Utworzyć dwie klasy: Student oraz Teacher. 
+-W klasach umieścić (wszystkie private): imie, nazwisko,data urodzenia.
+-Utworzyć konstruktor, który pozwala na tworzenie obiektów klas po podaniu imie, nazwisko,data urodzenia.
+-Utworzyć metodę info, która wyświetla wszystkie informacje o obiekcie klasy.
+-Nie wolno tworzyć metod pomocniczych (prócz konstruktora i jednej metody info).
+-Testowo utworzyć 3 obiekty za pomocą konstruktora i wyświetlić zawartość.
